@@ -42,6 +42,9 @@ DDR Memory
 
 The Processing System configures and controls all transfers, while the Programmable Logic performs high-throughput streaming operations.
 
+<img width="1788" height="783" alt="image" src="https://github.com/user-attachments/assets/415c39d7-6e8b-4af0-b504-9b0c6a87bd69" />
+
+
 ---
 
 ## Major IP Blocks
